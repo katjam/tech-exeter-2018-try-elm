@@ -1,0 +1,17 @@
+theme : moon
+
+layout : top
+
+logo : neontribe-logo.png
+
+theme-override : PITCHME.css
+
+transition : none
+
+highlight : ir-black
+
+code-line-numbers : true
+
+charts : true
+
+footnote : "Try Elm - Katja Mordaunt @neontribe.co.uk - Tech Exeter 2018"

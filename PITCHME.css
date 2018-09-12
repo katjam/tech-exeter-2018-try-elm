@@ -1,0 +1,6 @@
+.reveal section img {
+  display: block;
+  margin: auto;
+  max-height: 350px;
+  padding: 20px !important;
+}
