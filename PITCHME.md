@@ -723,5 +723,5 @@ Note:
 
 - The [code](https://github.com/neontribe/tech-exeter-2018-try-elm/tree/master/code) for this talk (including the live coding bit we didn't finish)
 
-- Our [Elm app](https://www.youmattertoday.org.uk?utm_source=tech-exeter) in production!
+- Our [Elm app](youmattertoday.org.uk?utm_source=tech-exeter) in production!
 - A [white label](https://github.com/neontribe/elm-pic-story-site) version of ^^ 
