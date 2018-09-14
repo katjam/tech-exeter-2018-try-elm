@@ -2,7 +2,7 @@ theme : moon
 
 layout : top
 
-logo : neontribe-logo.png
+logo : images/neontribe-logo.png
 
 theme-override : PITCHME.css
 
